@@ -4,4 +4,3 @@ This is my work.
 Master is working more.
 
 Start studying diff command
-Now what?
